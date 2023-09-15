@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578929766304",
+    "project_id": "got-app-2bd7d",
+    "storage_bucket": "got-app-2bd7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578929766304:android:21115a7e30127f5916bec5",
+        "android_client_info": {
+          "package_name": "com.PrinceHans.GOT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iD8T4Fkf9WuVkFxqRjHKnHluXJkmhkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
